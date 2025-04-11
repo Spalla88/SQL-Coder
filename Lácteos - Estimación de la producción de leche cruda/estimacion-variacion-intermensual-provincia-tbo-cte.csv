@@ -1,0 +1,199 @@
+﻿pais_id,pais,provincia_id,provincia,año,mes,CCP,producto,uni_med_id,cantidad
+032,Argentina,6,Buenos Aires,2015,Enero,02211,Leche cruda,%,-6
+032,Argentina,6,Buenos Aires,2015,Febrero,02211,Leche cruda,%,-5
+032,Argentina,6,Buenos Aires,2015,Marzo,02211,Leche cruda,%,-2
+032,Argentina,6,Buenos Aires,2015,Abril,02211,Leche cruda,%,4
+032,Argentina,6,Buenos Aires,2015,Mayo,02211,Leche cruda,%,1
+032,Argentina,6,Buenos Aires,2015,Junio,02211,Leche cruda,%,4
+032,Argentina,6,Buenos Aires,2015,Julio,02211,Leche cruda,%,1
+032,Argentina,6,Buenos Aires,2015,Agosto,02211,Leche cruda,%,3
+032,Argentina,6,Buenos Aires,2015,Septiembre,02211,Leche cruda,%,10
+032,Argentina,6,Buenos Aires,2015,Octubre,02211,Leche cruda,%,1
+032,Argentina,6,Buenos Aires,2015,Noviembre,02211,Leche cruda,%,-2
+032,Argentina,6,Buenos Aires,2015,Diciembre,02211,Leche cruda,%,-10
+032,Argentina,14,Córdoba,2015,Enero,02211,Leche cruda,%,-9
+032,Argentina,14,Córdoba,2015,Febrero,02211,Leche cruda,%,-10
+032,Argentina,14,Córdoba,2015,Marzo,02211,Leche cruda,%,-13
+032,Argentina,14,Córdoba,2015,Abril,02211,Leche cruda,%,14
+032,Argentina,14,Córdoba,2015,Mayo,02211,Leche cruda,%,6
+032,Argentina,14,Córdoba,2015,Junio,02211,Leche cruda,%,7
+032,Argentina,14,Córdoba,2015,Julio,02211,Leche cruda,%,4
+032,Argentina,14,Córdoba,2015,Agosto,02211,Leche cruda,%,3
+032,Argentina,14,Córdoba,2015,Septiembre,02211,Leche cruda,%,8
+032,Argentina,14,Córdoba,2015,Octubre,02211,Leche cruda,%,-2
+032,Argentina,14,Córdoba,2015,Noviembre,02211,Leche cruda,%,-3
+032,Argentina,14,Córdoba,2015,Diciembre,02211,Leche cruda,%,-8
+032,Argentina,30,Entre Ríos,2015,Enero,02211,Leche cruda,%,-16
+032,Argentina,30,Entre Ríos,2015,Febrero,02211,Leche cruda,%,-2
+032,Argentina,30,Entre Ríos,2015,Marzo,02211,Leche cruda,%,1
+032,Argentina,30,Entre Ríos,2015,Abril,02211,Leche cruda,%,-5
+032,Argentina,30,Entre Ríos,2015,Mayo,02211,Leche cruda,%,10
+032,Argentina,30,Entre Ríos,2015,Junio,02211,Leche cruda,%,15
+032,Argentina,30,Entre Ríos,2015,Julio,02211,Leche cruda,%,3
+032,Argentina,30,Entre Ríos,2015,Agosto,02211,Leche cruda,%,3
+032,Argentina,30,Entre Ríos,2015,Septiembre,02211,Leche cruda,%,8
+032,Argentina,30,Entre Ríos,2015,Octubre,02211,Leche cruda,%,-2
+032,Argentina,30,Entre Ríos,2015,Noviembre,02211,Leche cruda,%,-2
+032,Argentina,30,Entre Ríos,2015,Diciembre,02211,Leche cruda,%,-9
+032,Argentina,42,La Pampa,2015,Enero,02211,Leche cruda,%,-5
+032,Argentina,42,La Pampa,2015,Febrero,02211,Leche cruda,%,-8
+032,Argentina,42,La Pampa,2015,Marzo,02211,Leche cruda,%,0
+032,Argentina,42,La Pampa,2015,Abril,02211,Leche cruda,%,4
+032,Argentina,42,La Pampa,2015,Mayo,02211,Leche cruda,%,-1
+032,Argentina,42,La Pampa,2015,Junio,02211,Leche cruda,%,3
+032,Argentina,42,La Pampa,2015,Julio,02211,Leche cruda,%,-5
+032,Argentina,42,La Pampa,2015,Agosto,02211,Leche cruda,%,7
+032,Argentina,42,La Pampa,2015,Septiembre,02211,Leche cruda,%,6
+032,Argentina,42,La Pampa,2015,Octubre,02211,Leche cruda,%,1
+032,Argentina,42,La Pampa,2015,Noviembre,02211,Leche cruda,%,-2
+032,Argentina,42,La Pampa,2015,Diciembre,02211,Leche cruda,%,-5
+032,Argentina,82,Santa Fe,2015,Enero,02211,Leche cruda,%,-12
+032,Argentina,82,Santa Fe,2015,Febrero,02211,Leche cruda,%,-6
+032,Argentina,82,Santa Fe,2015,Marzo,02211,Leche cruda,%,-10
+032,Argentina,82,Santa Fe,2015,Abril,02211,Leche cruda,%,9
+032,Argentina,82,Santa Fe,2015,Mayo,02211,Leche cruda,%,8
+032,Argentina,82,Santa Fe,2015,Junio,02211,Leche cruda,%,6
+032,Argentina,82,Santa Fe,2015,Julio,02211,Leche cruda,%,3
+032,Argentina,82,Santa Fe,2015,Agosto,02211,Leche cruda,%,4
+032,Argentina,82,Santa Fe,2015,Septiembre,02211,Leche cruda,%,9
+032,Argentina,82,Santa Fe,2015,Octubre,02211,Leche cruda,%,-2
+032,Argentina,82,Santa Fe,2015,Noviembre,02211,Leche cruda,%,-4
+032,Argentina,82,Santa Fe,2015,Diciembre,02211,Leche cruda,%,-7
+032,Argentina,86,Santiago del Estero,2015,Enero,02211,Leche cruda,%,-12
+032,Argentina,86,Santiago del Estero,2015,Febrero,02211,Leche cruda,%,-7
+032,Argentina,86,Santiago del Estero,2015,Marzo,02211,Leche cruda,%,-15
+032,Argentina,86,Santiago del Estero,2015,Abril,02211,Leche cruda,%,14
+032,Argentina,86,Santiago del Estero,2015,Mayo,02211,Leche cruda,%,5
+032,Argentina,86,Santiago del Estero,2015,Junio,02211,Leche cruda,%,6
+032,Argentina,86,Santiago del Estero,2015,Julio,02211,Leche cruda,%,4
+032,Argentina,86,Santiago del Estero,2015,Agosto,02211,Leche cruda,%,2
+032,Argentina,86,Santiago del Estero,2015,Septiembre,02211,Leche cruda,%,16
+032,Argentina,86,Santiago del Estero,2015,Octubre,02211,Leche cruda,%,-5
+032,Argentina,86,Santiago del Estero,2015,Noviembre,02211,Leche cruda,%,1
+032,Argentina,86,Santiago del Estero,2015,Diciembre,02211,Leche cruda,%,-8
+032,Argentina,6,Buenos Aires,2016,Enero,02211,Leche cruda,%,-8
+032,Argentina,6,Buenos Aires,2016,Febrero,02211,Leche cruda,%,-8
+032,Argentina,6,Buenos Aires,2016,Marzo,02211,Leche cruda,%,0
+032,Argentina,6,Buenos Aires,2016,Abril,02211,Leche cruda,%,-2
+032,Argentina,6,Buenos Aires,2016,Mayo,02211,Leche cruda,%,3
+032,Argentina,6,Buenos Aires,2016,Junio,02211,Leche cruda,%,0
+032,Argentina,6,Buenos Aires,2016,Julio,02211,Leche cruda,%,4
+032,Argentina,6,Buenos Aires,2016,Agosto,02211,Leche cruda,%,8
+032,Argentina,6,Buenos Aires,2016,Septiembre,02211,Leche cruda,%,9
+032,Argentina,6,Buenos Aires,2016,Octubre,02211,Leche cruda,%,-1
+032,Argentina,6,Buenos Aires,2016,Noviembre,02211,Leche cruda,%,-3
+032,Argentina,6,Buenos Aires,2016,Diciembre,02211,Leche cruda,%,-7
+032,Argentina,14,Córdoba,2016,Enero,02211,Leche cruda,%,-9
+032,Argentina,14,Córdoba,2016,Febrero,02211,Leche cruda,%,-10
+032,Argentina,14,Córdoba,2016,Marzo,02211,Leche cruda,%,-5
+032,Argentina,14,Córdoba,2016,Abril,02211,Leche cruda,%,-10
+032,Argentina,14,Córdoba,2016,Mayo,02211,Leche cruda,%,4
+032,Argentina,14,Córdoba,2016,Junio,02211,Leche cruda,%,10
+032,Argentina,14,Córdoba,2016,Julio,02211,Leche cruda,%,6
+032,Argentina,14,Córdoba,2016,Agosto,02211,Leche cruda,%,13
+032,Argentina,14,Córdoba,2016,Septiembre,02211,Leche cruda,%,8
+032,Argentina,14,Córdoba,2016,Octubre,02211,Leche cruda,%,-5
+032,Argentina,14,Córdoba,2016,Noviembre,02211,Leche cruda,%,3
+032,Argentina,14,Córdoba,2016,Diciembre,02211,Leche cruda,%,-6
+032,Argentina,30,Entre Ríos,2016,Enero,02211,Leche cruda,%,-13
+032,Argentina,30,Entre Ríos,2016,Febrero,02211,Leche cruda,%,-11
+032,Argentina,30,Entre Ríos,2016,Marzo,02211,Leche cruda,%,-6
+032,Argentina,30,Entre Ríos,2016,Abril,02211,Leche cruda,%,-15
+032,Argentina,30,Entre Ríos,2016,Mayo,02211,Leche cruda,%,9
+032,Argentina,30,Entre Ríos,2016,Junio,02211,Leche cruda,%,11
+032,Argentina,30,Entre Ríos,2016,Julio,02211,Leche cruda,%,-2
+032,Argentina,30,Entre Ríos,2016,Agosto,02211,Leche cruda,%,18
+032,Argentina,30,Entre Ríos,2016,Septiembre,02211,Leche cruda,%,-1
+032,Argentina,30,Entre Ríos,2016,Octubre,02211,Leche cruda,%,-2
+032,Argentina,30,Entre Ríos,2016,Noviembre,02211,Leche cruda,%,-4
+032,Argentina,30,Entre Ríos,2016,Diciembre,02211,Leche cruda,%,-5
+032,Argentina,42,La Pampa,2016,Enero,02211,Leche cruda,%,-12
+032,Argentina,42,La Pampa,2016,Febrero,02211,Leche cruda,%,-9
+032,Argentina,42,La Pampa,2016,Marzo,02211,Leche cruda,%,3
+032,Argentina,42,La Pampa,2016,Abril,02211,Leche cruda,%,-6
+032,Argentina,42,La Pampa,2016,Mayo,02211,Leche cruda,%,-5
+032,Argentina,42,La Pampa,2016,Junio,02211,Leche cruda,%,1
+032,Argentina,42,La Pampa,2016,Julio,02211,Leche cruda,%,4
+032,Argentina,42,La Pampa,2016,Agosto,02211,Leche cruda,%,10
+032,Argentina,42,La Pampa,2016,Septiembre,02211,Leche cruda,%,6
+032,Argentina,42,La Pampa,2016,Octubre,02211,Leche cruda,%,1
+032,Argentina,42,La Pampa,2016,Noviembre,02211,Leche cruda,%,-2
+032,Argentina,42,La Pampa,2016,Diciembre,02211,Leche cruda,%,-8
+032,Argentina,82,Santa Fe,2016,Enero,02211,Leche cruda,%,-11
+032,Argentina,82,Santa Fe,2016,Febrero,02211,Leche cruda,%,-8
+032,Argentina,82,Santa Fe,2016,Marzo,02211,Leche cruda,%,-5
+032,Argentina,82,Santa Fe,2016,Abril,02211,Leche cruda,%,-19
+032,Argentina,82,Santa Fe,2016,Mayo,02211,Leche cruda,%,2
+032,Argentina,82,Santa Fe,2016,Junio,02211,Leche cruda,%,12
+032,Argentina,82,Santa Fe,2016,Julio,02211,Leche cruda,%,8
+032,Argentina,82,Santa Fe,2016,Agosto,02211,Leche cruda,%,17
+032,Argentina,82,Santa Fe,2016,Septiembre,02211,Leche cruda,%,6
+032,Argentina,82,Santa Fe,2016,Octubre,02211,Leche cruda,%,-1
+032,Argentina,82,Santa Fe,2016,Noviembre,02211,Leche cruda,%,-3
+032,Argentina,82,Santa Fe,2016,Diciembre,02211,Leche cruda,%,-5
+032,Argentina,86,Santiago del Estero,2016,Enero,02211,Leche cruda,%,-11
+032,Argentina,86,Santiago del Estero,2016,Febrero,02211,Leche cruda,%,-9
+032,Argentina,86,Santiago del Estero,2016,Marzo,02211,Leche cruda,%,-3
+032,Argentina,86,Santiago del Estero,2016,Abril,02211,Leche cruda,%,-15
+032,Argentina,86,Santiago del Estero,2016,Mayo,02211,Leche cruda,%,16
+032,Argentina,86,Santiago del Estero,2016,Junio,02211,Leche cruda,%,16
+032,Argentina,86,Santiago del Estero,2016,Julio,02211,Leche cruda,%,9
+032,Argentina,86,Santiago del Estero,2016,Agosto,02211,Leche cruda,%,16
+032,Argentina,86,Santiago del Estero,2016,Septiembre,02211,Leche cruda,%,3
+032,Argentina,86,Santiago del Estero,2016,Octubre,02211,Leche cruda,%,-4
+032,Argentina,86,Santiago del Estero,2016,Noviembre,02211,Leche cruda,%,-3
+032,Argentina,86,Santiago del Estero,2016,Diciembre,02211,Leche cruda,%,-5
+032,Argentina,6,Buenos Aires,2017,Enero,02211,Leche cruda,%,-7
+032,Argentina,6,Buenos Aires,2017,Febrero,02211,Leche cruda,%,-9
+032,Argentina,6,Buenos Aires,2017,Marzo,02211,Leche cruda,%,-2
+032,Argentina,6,Buenos Aires,2017,Abril,02211,Leche cruda,%,-1
+032,Argentina,6,Buenos Aires,2017,Mayo,02211,Leche cruda,%,2
+032,Argentina,6,Buenos Aires,2017,Junio,02211,Leche cruda,%,8
+032,Argentina,6,Buenos Aires,2017,Julio,02211,Leche cruda,%,1
+032,Argentina,6,Buenos Aires,2017,Agosto,02211,Leche cruda,%,13
+032,Argentina,6,Buenos Aires,2017,Septiembre,02211,Leche cruda,%,12
+032,Argentina,14,Córdoba,2017,Enero,02211,Leche cruda,%,-10
+032,Argentina,14,Córdoba,2017,Febrero,02211,Leche cruda,%,-7
+032,Argentina,14,Córdoba,2017,Marzo,02211,Leche cruda,%,-4
+032,Argentina,14,Córdoba,2017,Abril,02211,Leche cruda,%,-1
+032,Argentina,14,Córdoba,2017,Mayo,02211,Leche cruda,%,1
+032,Argentina,14,Córdoba,2017,Junio,02211,Leche cruda,%,11
+032,Argentina,14,Córdoba,2017,Julio,02211,Leche cruda,%,11
+032,Argentina,14,Córdoba,2017,Agosto,02211,Leche cruda,%,17
+032,Argentina,14,Córdoba,2017,Septiembre,02211,Leche cruda,%,13
+032,Argentina,30,Entre Ríos,2017,Enero,02211,Leche cruda,%,-12
+032,Argentina,30,Entre Ríos,2017,Febrero,02211,Leche cruda,%,-8
+032,Argentina,30,Entre Ríos,2017,Marzo,02211,Leche cruda,%,-6
+032,Argentina,30,Entre Ríos,2017,Abril,02211,Leche cruda,%,2
+032,Argentina,30,Entre Ríos,2017,Mayo,02211,Leche cruda,%,1
+032,Argentina,30,Entre Ríos,2017,Junio,02211,Leche cruda,%,13
+032,Argentina,30,Entre Ríos,2017,Julio,02211,Leche cruda,%,14
+032,Argentina,30,Entre Ríos,2017,Agosto,02211,Leche cruda,%,16
+032,Argentina,30,Entre Ríos,2017,Septiembre,02211,Leche cruda,%,7
+032,Argentina,42,La Pampa,2017,Enero,02211,Leche cruda,%,-3
+032,Argentina,42,La Pampa,2017,Febrero,02211,Leche cruda,%,-9
+032,Argentina,42,La Pampa,2017,Marzo,02211,Leche cruda,%,1
+032,Argentina,42,La Pampa,2017,Abril,02211,Leche cruda,%,-5
+032,Argentina,42,La Pampa,2017,Mayo,02211,Leche cruda,%,3
+032,Argentina,42,La Pampa,2017,Junio,02211,Leche cruda,%,9
+032,Argentina,42,La Pampa,2017,Julio,02211,Leche cruda,%,-2
+032,Argentina,42,La Pampa,2017,Agosto,02211,Leche cruda,%,14
+032,Argentina,42,La Pampa,2017,Septiembre,02211,Leche cruda,%,17
+032,Argentina,82,Santa Fe,2017,Enero,02211,Leche cruda,%,-16
+032,Argentina,82,Santa Fe,2017,Febrero,02211,Leche cruda,%,-8
+032,Argentina,82,Santa Fe,2017,Marzo,02211,Leche cruda,%,-6
+032,Argentina,82,Santa Fe,2017,Abril,02211,Leche cruda,%,1
+032,Argentina,82,Santa Fe,2017,Mayo,02211,Leche cruda,%,4
+032,Argentina,82,Santa Fe,2017,Junio,02211,Leche cruda,%,15
+032,Argentina,82,Santa Fe,2017,Julio,02211,Leche cruda,%,14
+032,Argentina,82,Santa Fe,2017,Agosto,02211,Leche cruda,%,16
+032,Argentina,82,Santa Fe,2017,Septiembre,02211,Leche cruda,%,12
+032,Argentina,86,Santiago del Estero,2017,Enero,02211,Leche cruda,%,-13
+032,Argentina,86,Santiago del Estero,2017,Febrero,02211,Leche cruda,%,-6
+032,Argentina,86,Santiago del Estero,2017,Marzo,02211,Leche cruda,%,-9
+032,Argentina,86,Santiago del Estero,2017,Abril,02211,Leche cruda,%,2
+032,Argentina,86,Santiago del Estero,2017,Mayo,02211,Leche cruda,%,4
+032,Argentina,86,Santiago del Estero,2017,Junio,02211,Leche cruda,%,11
+032,Argentina,86,Santiago del Estero,2017,Julio,02211,Leche cruda,%,3
+032,Argentina,86,Santiago del Estero,2017,Agosto,02211,Leche cruda,%,15
+032,Argentina,86,Santiago del Estero,2017,Septiembre,02211,Leche cruda,%,17
