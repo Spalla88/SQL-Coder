@@ -1,0 +1,100 @@
+﻿pais_id,pais,año,mes,CCP,producto,Estrato_productivo,uni_med_id,cantidad
+032,Argentina,2015,Enero,02211,Leche cruda,Menos de 2000,%,-3
+032,Argentina,2015,Febrero,02211,Leche cruda,Menos de 2000,%,-4
+032,Argentina,2015,Marzo,02211,Leche cruda,Menos de 2000,%,-5
+032,Argentina,2015,Abril,02211,Leche cruda,Menos de 2000,%,6
+032,Argentina,2015,Mayo,02211,Leche cruda,Menos de 2000,%,8
+032,Argentina,2015,Junio,02211,Leche cruda,Menos de 2000,%,5
+032,Argentina,2015,Julio,02211,Leche cruda,Menos de 2000,%,-1
+032,Argentina,2015,Agosto,02211,Leche cruda,Menos de 2000,%,1
+032,Argentina,2015,Septiembre,02211,Leche cruda,Menos de 2000,%,7
+032,Argentina,2015,Octubre,02211,Leche cruda,Menos de 2000,%,2
+032,Argentina,2015,Noviembre,02211,Leche cruda,Menos de 2000,%,2
+032,Argentina,2015,Diciembre,02211,Leche cruda,Menos de 2000,%,-6
+032,Argentina,2016,Enero,02211,Leche cruda,Menos de 2000,%,-3
+032,Argentina,2016,Febrero,02211,Leche cruda,Menos de 2000,%,-3
+032,Argentina,2016,Marzo,02211,Leche cruda,Menos de 2000,%,3
+032,Argentina,2016,Abril,02211,Leche cruda,Menos de 2000,%,-24
+032,Argentina,2016,Mayo,02211,Leche cruda,Menos de 2000,%,-26
+032,Argentina,2016,Junio,02211,Leche cruda,Menos de 2000,%,-24
+032,Argentina,2016,Julio,02211,Leche cruda,Menos de 2000,%,-21
+032,Argentina,2016,Agosto,02211,Leche cruda,Menos de 2000,%,-8
+032,Argentina,2016,Septiembre,02211,Leche cruda,Menos de 2000,%,-13
+032,Argentina,2016,Octubre,02211,Leche cruda,Menos de 2000,%,-12
+032,Argentina,2016,Noviembre,02211,Leche cruda,Menos de 2000,%,-12
+032,Argentina,2016,Diciembre,02211,Leche cruda,Menos de 2000,%,-9
+032,Argentina,2017,Enero,02211,Leche cruda,Menos de 2000,%,-14
+032,Argentina,2017,Febrero,02211,Leche cruda,Menos de 2000,%,-14
+032,Argentina,2017,Marzo,02211,Leche cruda,Menos de 2000,%,-13
+032,Argentina,2017,Abril,02211,Leche cruda,Menos de 2000,%,2
+032,Argentina,2017,Mayo,02211,Leche cruda,Menos de 2000,%,-4
+032,Argentina,2017,Junio,02211,Leche cruda,Menos de 2000,%,-10
+032,Argentina,2017,Julio,02211,Leche cruda,Menos de 2000,%,-14
+032,Argentina,2017,Agosto,02211,Leche cruda,Menos de 2000,%,-25
+032,Argentina,2017,Septiembre,02211,Leche cruda,Menos de 2000,%,-24
+032,Argentina,2015,Enero,02211,Leche cruda,Entre 2000 y 6000,%,-2
+032,Argentina,2015,Febrero,02211,Leche cruda,Entre 2000 y 6000,%,-2
+032,Argentina,2015,Marzo,02211,Leche cruda,Entre 2000 y 6000,%,0
+032,Argentina,2015,Abril,02211,Leche cruda,Entre 2000 y 6000,%,7
+032,Argentina,2015,Mayo,02211,Leche cruda,Entre 2000 y 6000,%,9
+032,Argentina,2015,Junio,02211,Leche cruda,Entre 2000 y 6000,%,9
+032,Argentina,2015,Julio,02211,Leche cruda,Entre 2000 y 6000,%,3
+032,Argentina,2015,Agosto,02211,Leche cruda,Entre 2000 y 6000,%,3
+032,Argentina,2015,Septiembre,02211,Leche cruda,Entre 2000 y 6000,%,7
+032,Argentina,2015,Octubre,02211,Leche cruda,Entre 2000 y 6000,%,8
+032,Argentina,2015,Noviembre,02211,Leche cruda,Entre 2000 y 6000,%,6
+032,Argentina,2015,Diciembre,02211,Leche cruda,Entre 2000 y 6000,%,-1
+032,Argentina,2016,Enero,02211,Leche cruda,Entre 2000 y 6000,%,-1
+032,Argentina,2016,Febrero,02211,Leche cruda,Entre 2000 y 6000,%,-1
+032,Argentina,2016,Marzo,02211,Leche cruda,Entre 2000 y 6000,%,1
+032,Argentina,2016,Abril,02211,Leche cruda,Entre 2000 y 6000,%,-18
+032,Argentina,2016,Mayo,02211,Leche cruda,Entre 2000 y 6000,%,-20
+032,Argentina,2016,Junio,02211,Leche cruda,Entre 2000 y 6000,%,-17
+032,Argentina,2016,Julio,02211,Leche cruda,Entre 2000 y 6000,%,-13
+032,Argentina,2016,Agosto,02211,Leche cruda,Entre 2000 y 6000,%,-5
+032,Argentina,2016,Septiembre,02211,Leche cruda,Entre 2000 y 6000,%,-5
+032,Argentina,2016,Octubre,02211,Leche cruda,Entre 2000 y 6000,%,-8
+032,Argentina,2016,Noviembre,02211,Leche cruda,Entre 2000 y 6000,%,-6
+032,Argentina,2016,Diciembre,02211,Leche cruda,Entre 2000 y 6000,%,-4
+032,Argentina,2017,Enero,02211,Leche cruda,Entre 2000 y 6000,%,-5
+032,Argentina,2017,Febrero,02211,Leche cruda,Entre 2000 y 6000,%,-7
+032,Argentina,2017,Marzo,02211,Leche cruda,Entre 2000 y 6000,%,-3
+032,Argentina,2017,Abril,02211,Leche cruda,Entre 2000 y 6000,%,10
+032,Argentina,2017,Mayo,02211,Leche cruda,Entre 2000 y 6000,%,12
+032,Argentina,2017,Junio,02211,Leche cruda,Entre 2000 y 6000,%,11
+032,Argentina,2017,Julio,02211,Leche cruda,Entre 2000 y 6000,%,9
+032,Argentina,2017,Agosto,02211,Leche cruda,Entre 2000 y 6000,%,2
+032,Argentina,2017,Septiembre,02211,Leche cruda,Entre 2000 y 6000,%,2
+032,Argentina,2015,Enero,02211,Leche cruda,Más de 6000,%,2
+032,Argentina,2015,Febrero,02211,Leche cruda,Más de 6000,%,3
+032,Argentina,2015,Marzo,02211,Leche cruda,Más de 6000,%,5
+032,Argentina,2015,Abril,02211,Leche cruda,Más de 6000,%,7
+032,Argentina,2015,Mayo,02211,Leche cruda,Más de 6000,%,7
+032,Argentina,2015,Junio,02211,Leche cruda,Más de 6000,%,8
+032,Argentina,2015,Julio,02211,Leche cruda,Más de 6000,%,5
+032,Argentina,2015,Agosto,02211,Leche cruda,Más de 6000,%,3
+032,Argentina,2015,Septiembre,02211,Leche cruda,Más de 6000,%,7
+032,Argentina,2015,Octubre,02211,Leche cruda,Más de 6000,%,9
+032,Argentina,2015,Noviembre,02211,Leche cruda,Más de 6000,%,7
+032,Argentina,2015,Diciembre,02211,Leche cruda,Más de 6000,%,1
+032,Argentina,2016,Enero,02211,Leche cruda,Más de 6000,%,1
+032,Argentina,2016,Febrero,02211,Leche cruda,Más de 6000,%,3
+032,Argentina,2016,Marzo,02211,Leche cruda,Más de 6000,%,2
+032,Argentina,2016,Abril,02211,Leche cruda,Más de 6000,%,-8
+032,Argentina,2016,Mayo,02211,Leche cruda,Más de 6000,%,-9
+032,Argentina,2016,Junio,02211,Leche cruda,Más de 6000,%,-9
+032,Argentina,2016,Julio,02211,Leche cruda,Más de 6000,%,-5
+032,Argentina,2016,Agosto,02211,Leche cruda,Más de 6000,%,0
+032,Argentina,2016,Septiembre,02211,Leche cruda,Más de 6000,%,1
+032,Argentina,2016,Octubre,02211,Leche cruda,Más de 6000,%,-2
+032,Argentina,2016,Noviembre,02211,Leche cruda,Más de 6000,%,1
+032,Argentina,2016,Diciembre,02211,Leche cruda,Más de 6000,%,3
+032,Argentina,2017,Enero,02211,Leche cruda,Más de 6000,%,2
+032,Argentina,2017,Febrero,02211,Leche cruda,Más de 6000,%,-1
+032,Argentina,2017,Marzo,02211,Leche cruda,Más de 6000,%,3
+032,Argentina,2017,Abril,02211,Leche cruda,Más de 6000,%,8
+032,Argentina,2017,Mayo,02211,Leche cruda,Más de 6000,%,10
+032,Argentina,2017,Junio,02211,Leche cruda,Más de 6000,%,12
+032,Argentina,2017,Julio,02211,Leche cruda,Más de 6000,%,11
+032,Argentina,2017,Agosto,02211,Leche cruda,Más de 6000,%,8
+032,Argentina,2017,Septiembre,02211,Leche cruda,Más de 6000,%,5
