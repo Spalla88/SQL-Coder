@@ -157,7 +157,34 @@ FROM estimacion_variacion_interanual_estrato_tbo_cte e
 JOIN Paises p ON e.pais_id = p.pais_id
 GROUP BY e.Estrato_productivo, p.pais;
 
-SELECT * FROM vw_VariacionNacionalPorAnio LIMIT 5;
+SELECT * FROM vw_EstratoProductivo LIMIT 5;
+
+CREATE VIEW vw_VariacionInteranualPorProvincia AS
+SELECT 
+    p.pais,
+    pr.provincia,
+    e.año,
+    e.mes,
+    e.cantidad
+FROM estimacion_variacion_interanual_provincia_tbo_cte e
+JOIN Provincias pr ON e.provincia_id = pr.provincia_id
+JOIN Paises p ON e.pais_id = p.pais_id
+WHERE e.cantidad IS NOT NULL;
+
+SELECT * FROM vw_VariacionInteranualPorProvincia LIMIT 5;
+
+CREATE VIEW vw_VariacionInteranualPorEstrato AS
+SELECT 
+    p.pais,
+    e.Estrato_productivo,
+    e.año,
+    e.mes,
+    e.cantidad
+FROM estimacion_variacion_interanual_estrato_tbo_cte e
+JOIN Paises p ON e.pais_id = p.pais_id
+WHERE e.cantidad IS NOT NULL;
+
+SELECT * FROM vw_VariacionInteranualPorEstrato LIMIT 5;
 
 -- Funciones
 DELIMITER //
